@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Currently working on <a href="https://gamedropped.vercel.app/"> Gamedropped </a> <br>📚 Learning C<br>🎲 Fun fact: ...</p>
+<p align="left">🔭 Currently working on <a href="https://gamedropped.vercel.app/"> Gamedropped </a> <br>📚 Learning C<br>🐶 Fun fact: My dog is a neighborhood celebrity</p>
 
 ###
 
