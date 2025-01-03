@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Antonio</h1>
+<h1 align="center">
+  <img src="https://github.com/antoniodicillo/antoniodicillo/blob/main/assets/header.gif" alt="Hi 👋, I'm Antonio"> </img>
+</h1>
 
 ###
 
