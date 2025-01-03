@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">I'm familiar with:</h2>
+<h2 align="left">I'm familiar with</h2>
 
 ###
 
