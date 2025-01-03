@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gamedropped](https://gamedropped.vercel.app/)
 
-- 🌱 I’m currently learning **NextJS and C**
+- 🌱 I’m currently learning **C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
