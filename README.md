@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🔭 Working on a gaming website <a href="https://gamedropped.vercel.app/"> Gamedropped </a> <br>🤝 My Inteli buddy: <a href="https://github.com/Rodrigo-07"> Rodrigo </a>  <br>📚 Learning more about web development <br>🐶 Fun fact: My dog is a neighborhood celebrity</p>
+<p align="left">🔭 Working on a gaming website <br>🤝 My Inteli buddy: <a href="https://github.com/Rodrigo-07"> Rodrigo </a>  <br>📚 Learning more about web development <br>🐶 Fun fact: My dog is a neighborhood celebrity</p>
 
 ###
 
