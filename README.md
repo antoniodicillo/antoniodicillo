@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🔭 Working on a gaming website <br>🤝 My Inteli buddy: <a href="https://github.com/Rodrigo-07"> Rodrigo </a>  <br>📚 Learning more about web development </p>
+<p align="left">🔭 Working on a gaming website (and studying) <br>🤝 My Inteli buddy: <a href="https://github.com/Rodrigo-07"> Rodrigo </a>  <br>📚 Learning more about web development </p>
 
 ###
 
