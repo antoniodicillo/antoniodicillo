@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://github.com/antoniodicillo/antoniodicillo/blob/main/assets/gifheader.gif" alt="Hi 👋, I'm Antonio"> </img>
+ Hi 👋, I'm Antonio
 </h1>
-
-###
-
-<p align="left">🔭 Working on a gaming website (and studying) <br>🤝 My Inteli buddy: <a href="https://github.com/Rodrigo-07"> Rodrigo </a>  <br>📚 Learning more about web development </p>
 
 ###
 
